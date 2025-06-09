@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Haykal Aulil Albab👋 </h1>
-<h3 align="center">A passionate newbie developer from somewhere in Laravel</h3>
+<h3 align="center">A passionate junior developer from somewhere in Laravel</h3>
 
 - 🤔 I’m looking for **freelance / fulltime project**
 
