@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=haykalaul.haykalaul&" />
+<img src="https://komarev.com/ghpvc/?username=haykalaul&color=green" alt="Views on Github" />
 </div>
 
 ###
