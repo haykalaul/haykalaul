@@ -30,7 +30,7 @@
 
 - 📫 Reach me now at: **haikalaulilalbab@gmail.com**
 
-- ⚡ Fun fact **Alumni RuangGuru CAMP Fullstack & AI Program 2024 Batch 2**
+- ⚡ fact **Alumni RuangGuru CAMP Fullstack & AI Program 2024 Batch 2**
 
 <p align="left">
 </p>
