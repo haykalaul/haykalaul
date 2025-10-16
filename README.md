@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on **web development especially in front end developer.**
  
-- 🌱 I’m currently honing **my web development skills by learning Golang  and PHP as a basic backend**
+- 🌱 I’m currently honing **my web development skills by learning Golang and PHP as a basic backend**
 
 - 📫 Reach me now at: **haikalaulilalbab@gmail.com**
 
