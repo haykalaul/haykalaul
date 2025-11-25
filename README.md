@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0000FF&height=120&section=header"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Haykal+Aulil+Albab;Student+at+Surabaya+State+University;Interested+and+Passionate+About+;Programming+and+LLM+Data+Engineer;Have+a+Nice+Day+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Haykal+Aulil+Albab;Student+at+Surabaya+State+University;Interested+and+Passionate+About+;Programming+and+NLP+Data+Engineer;Have+a+Nice+Day+%3A)" alt="Typing SVG" /></a>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW56YWhicnM4NDFpZ2hqa3k2b3h0dG1uM3c2amI0M295bnhlYmhyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"   />
 </div>
