@@ -57,7 +57,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🔥My Stats:
+### 🔥 My Stats:
 <p align="left">
 <a href="https://github.com/haykalaul">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haykalaul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
