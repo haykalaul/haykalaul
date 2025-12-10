@@ -58,11 +58,9 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🔥My Stats:
-<p align="left">
-<a href="https://github.com/haykalaul">
+<p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haykalaul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykalaul&layout=compact&langs_count=10&theme=algolia&cache_seconds=1800"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=haykalaul&layout=compact&langs_count=10&theme=algolia"/>
 </p>
 
 ##
