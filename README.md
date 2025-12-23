@@ -21,7 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=haykalaul&color=green" alt="Views on Github" />
 </div>
 
-- 🤔 I’m looking for **freelance / fulltime project and Job Opportunities**
+- 🤔 I’m looking for **freelance /fulltime project and Job Opportunities**
 
 - 🔭 I’m currently working on **web development especially in front end developer.**
  
