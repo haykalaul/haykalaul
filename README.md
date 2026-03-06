@@ -27,7 +27,7 @@
  
 - 🌱 I’m currently honing **my web development skills by learning Golang and PHP as a basic backend**
 
-- 📫 Reach me now at: **haikalaulilalbab@gmail.com**
+- 📫 Reach me now at : **haikalaulilalbab@gmail.com**
 
 - ⚡ fact **Alumni Mentee RuangGuru CAMP Fullstack & AI Program 2024 Batch 2**
 
