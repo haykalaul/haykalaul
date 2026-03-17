@@ -23,7 +23,7 @@
 
 - 🤔 I’m looking for **freelance or fulltime project and Job Opportunities**
 
-- 🔭I’m currently working on **web development especially in front end developer.**
+- 🔭 I’m currently working on **web development especially in front end developer.**
  
 - 🌱 I’m currently honing **my web development skills by learning Golang and PHP as a basic backend**
 
