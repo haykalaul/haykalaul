@@ -21,15 +21,15 @@
 <img src="https://komarev.com/ghpvc/?username=haykalaul&color=green" alt="Views on Github" />
 </div>
 
-- 🤔I’m looking for **freelance or fulltime project and Job Opportunities**
+- 🤔 I’m looking for **freelance or fulltime project and Job Opportunities**
 
-- 🔭I’m currently working on **web development especially in front end developer.**
+- 🔭 I’m currently working on **web development especially in front end developer.**
  
-- 🌱I’m currently honing **my web development skills by learning Golang and PHP as a basic backend**
+- 🌱 I’m currently honing **my web development skills by learning Golang and PHP as a basic backend**
 
-- 📫Reach me now at : **haikalaulilalbab@gmail.com**
+- 📫 Reach me now at : **haikalaulilalbab@gmail.com**
 
-- ⚡fact **Alumni Mentee RuangGuru CAMP Fullstack & AI Program 2024 Batch 2**
+- ⚡ fact **Alumni Mentee RuangGuru CAMP Fullstack & AI Program 2024 Batch 2**
 
 <p align="left">
 </p>
